@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hot-dog Accusation App</string>
+    <string name="hello_world">Hello, @name! Thank you for the weenie!</string>
+    <string name="edit_message">Enter your name</string>
+    <string name="button_send">Input</string>
+</resources>
